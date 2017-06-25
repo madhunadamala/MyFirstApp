@@ -16,7 +16,7 @@
           <option name="serverUri" value="https://nadamala-android.visualstudio.com" />
           <option name="userId" value="886600ab-fc72-47a1-aaaa-be5c21356a14" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;df459789-c8a4-4f0d-98b6-aecb854f3fa8&quot;,&quot;name&quot;:&quot;nadamala-android&quot;,&quot;url&quot;:&quot;https://nadamala-android.visualstudio.com/_apis/projectCollections/df459789-c8a4-4f0d-98b6-aecb854f3fa8&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;1d8379e2-e161-4e99-9636-39894b70a6e6&quot;,&quot;name&quot;:&quot;AndroidSamples&quot;,&quot;revision&quot;:16,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://nadamala-android.visualstudio.com/_apis/projects/1d8379e2-e161-4e99-9636-39894b70a6e6&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;1d8379e2-e161-4e99-9636-39894b70a6e6&quot;,&quot;name&quot;:&quot;AndroidSamples&quot;,&quot;revision&quot;:17,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://nadamala-android.visualstudio.com/_apis/projects/1d8379e2-e161-4e99-9636-39894b70a6e6&quot;}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
@@ -46,7 +46,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//nadamala-android.visualstudio.com/androidsamples/_git/myfirstapp" />
+          <option name="value" value="//nadamala-android.visualstudio.com" />
         </PropertyState>
       </array>
     </option>
